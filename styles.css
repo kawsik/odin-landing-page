@@ -1,0 +1,150 @@
+.header{
+    display: flex;
+    gap: 15px;
+    background-color: #1F2937;
+    margin: 0;
+    padding: 25px 50px ;
+}
+
+.goals{
+    margin-left: auto;
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+}
+
+body{
+    margin: 0;
+}
+
+.container_1{
+    background-color: #1F2937;
+    color: white;
+    margin: 0;
+    display: flex;
+    padding:  25px 50px;
+    gap: 30px;
+}
+
+.logo{
+    width: 25px;
+    height: 25px;
+}
+
+.content_1{
+    font-size: 18px;
+}
+
+.head_1{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: bolder;
+    margin: 0;
+}
+.poster{
+    height: 250px;
+    width: 300px;
+}
+
+button{
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 8px;
+    height: 40px;
+    width: 120px;
+    border: none;
+}
+
+.container_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 50px;
+}
+
+.card{
+    width: 150px;
+    height: 170px;
+    border-radius: 16px;
+    border: 5px solid #3882f6;
+}
+
+.content_2{
+    display: flex;
+    gap: 40px;
+}
+
+.container_2 .head_2{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    
+}
+
+.box1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1 p{
+    color:rgb(68, 67, 67);
+}
+
+.container_3{
+    background-color: #e5e7eb;
+    padding: 100px 150px;
+}
+
+.content_3{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.container_3 .subquote{
+    text-align: right;
+    color: #1f2937;
+    font-size: 24px;
+}
+
+.container_4{
+    background-color:#f9faf8;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content_4{
+    display: flex;
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 50px 100px;
+    border-radius: 8px;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.content_4 button{
+    border: 2px solid #f9faf8;
+}
+
+.head_4{
+    font-size: 25px;
+}
+
+.footer{
+    background-color: #1F2937;
+    color: #f9faf8;
+    padding: 25px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
